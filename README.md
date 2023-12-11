@@ -20,8 +20,6 @@ I am a UI/UX Designer and Front-End Web Developer currently working on a variety
 - React
 
 ### My Stats 📈
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiwright&layout=compact&theme=tokyonight)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiwright&show_icons=true&theme=tokyonight&rank_icon=github)
 
 
