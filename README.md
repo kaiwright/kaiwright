@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there! 👨‍💻
+</h1>
 
-<!--
-**kaiwright/kaiwright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me 👋
+I am a UI/UX Designer and Front-End Web Developer currently working on a variety of projects to boost my skills. I have a BA in Games Art and Design, with my wide skillset helping me to design interfaces that are both visually appealing and user-friendly. I believe that a great user experience is essential to creating successful digital products. My goal is to create interfaces that not only look good but also enhance the overall user journey, making it intuitive and enjoyable for users to navigate through the digital space.
 
-Here are some ideas to get you started:
+### Skills ✨
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- APIs
+- Chart.js
+- Adobe Creative Cloud
+- Unreal Games Engine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on... 🎯
+- Node.js
+- React
+
+### My Stats 📈
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiwright)](https://github.com/anuraghazra/github-readme-stats)
+
+
