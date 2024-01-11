@@ -10,13 +10,13 @@ I am a UI/UX Designer and Front-End Web Developer currently working on a variety
 - CSS
 - JavaScript
 - Bootstrap
+- Node.js
 - APIs
 - Chart.js
 - Adobe Creative Cloud
 - Unreal Games Engine
 
 ### Currently working on... 🎯
-- Node.js
 - React
 
 ### My Stats 📈
