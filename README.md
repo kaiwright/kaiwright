@@ -19,7 +19,7 @@ I am a UI/UX Designer and Front-End Web Developer currently working on a variety
 - Unreal Games Engine
 
 ### Currently working on... 🎯
-- Exciting side projects 🤫
+- Exciting side projects! 
 
 ### My Stats 📈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiwright&show_icons=true&theme=tokyonight&rank_icon=github)
