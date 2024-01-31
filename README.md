@@ -9,7 +9,9 @@ I am a UI/UX Designer and Front-End Web Developer currently working on a variety
 - HTML
 - CSS
 - JavaScript
-- Bootstrap
+- React.js
+- Bootstrap/ React Bootstrap
+- Firebase
 - Node.js
 - Chart.js
 - API integration
