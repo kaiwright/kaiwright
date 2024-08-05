@@ -7,8 +7,9 @@ I am a UI/UX Designer and Front-End Web Developer currently working on a variety
 
 ### Skills ✨
 - HTML
-- CSS
+- CSS / Tailwind
 - JavaScript
+- TypeScript
 - React.js
 - Bootstrap/ React Bootstrap
 - Firebase
